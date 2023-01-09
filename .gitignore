@@ -1,0 +1,7 @@
+config/secrets.json
+.idea
+.env
+__pycache__
+flask_session
+venv
+static
